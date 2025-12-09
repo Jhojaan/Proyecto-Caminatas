@@ -32,3 +32,6 @@ Vista en react:
 Código fuente:
 
 - [https://drive.google.com/file/d/1rii8zziMl-tZXgsX0DWV0zuHWRK2bdwC/view?usp=sharing](https://drive.google.com/file/d/1rii8zziMl-tZXgsX0DWV0zuHWRK2bdwC/view?usp=sharing)
+
+Video presentacion:
+- [https://youtu.be/ojvr3Mo7AaM](https://youtu.be/ojvr3Mo7AaM)
