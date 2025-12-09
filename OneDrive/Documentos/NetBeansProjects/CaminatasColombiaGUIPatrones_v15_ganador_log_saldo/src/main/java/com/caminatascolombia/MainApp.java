@@ -14,7 +14,7 @@ import java.awt.*;
 
 /**
  * Punto de entrada de la aplicacion de escritorio.
- * Configura el tema verde y lanza la vista principal.
+ * Configura el tema verde y lanza la vista principal
  */
 public class MainApp {
 
