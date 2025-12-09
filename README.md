@@ -23,3 +23,12 @@ La plataforma incluirá un calendario interactivo donde los usuarios puedan visu
 Además, la aplicación contará con una sección de blogs donde los usuarios podrán publicar contenido multimedia, como texto, imágenes y videos, relacionado con el senderismo y las caminatas. Estas publicaciones podrán ser comentadas, calificadas y guardadas como favoritas por otros usuarios, fomentando la interacción y la creación de una comunidad activa.
 En el caso de las caminatas de competencia, cada evento deberá contar con un patrocinador que indique las condiciones de participación, premios y requisitos especiales. El sistema permitirá registrar a los ganadores para su posterior publicación, fortaleciendo la visibilidad del evento y promoviendo futuras competencias.
 Este proyecto busca integrar funcionalidades que no solo gestionen las caminatas de manera eficiente, sino que también promuevan una experiencia enriquecedora para los usuarios, fortaleciendo la comunidad senderista en Colombia.
+
+***
+
+Vista en react:
+- [https://caminatascolombia.netlify.app/](https://caminatascolombia.netlify.app/)
+
+Código fuente:
+
+- [https://drive.google.com/file/d/1rii8zziMl-tZXgsX0DWV0zuHWRK2bdwC/view?usp=sharing](https://drive.google.com/file/d/1rii8zziMl-tZXgsX0DWV0zuHWRK2bdwC/view?usp=sharing)
